@@ -234,7 +234,7 @@ General purpose, Build your own, Multi-agent
 - [Tweet](https://twitter.com/wangchunshu/status/1702512370785100133)
 </details>
 
-## [AgentTrust](https://github.com/vitaliiserbynassisterr/quality-oracle)
+## [AgentTrust](https://github.com/assister-xyz/quality-oracle)
 Challenge-response quality verification for AI agents and MCP servers
 
 <details>
@@ -252,7 +252,7 @@ Developer tools, Quality assurance, Build your own
 - Built with FastAPI, MongoDB, Redis. 552 tests, MIT license.
 
 ### Links
-- [GitHub](https://github.com/vitaliiserbynassisterr/quality-oracle)
+- [GitHub](https://github.com/assister-xyz/quality-oracle)
 
 </details>
 
